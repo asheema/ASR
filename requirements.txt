@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+aiofiles
+soundfile
+librosa
+numpy
+onnxruntime
+nemo_toolkit[asr]
